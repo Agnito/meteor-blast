@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Blast text apart to make it manipulable.",
-  version: "0.0.1",
+  version: "0.0.2",
   git: "https://github.com/Agnito/meteor-blast.git",
   name: "agnito:blast"
 });
