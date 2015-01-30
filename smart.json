@@ -1,0 +1,9 @@
+{
+  "name": "blast",
+  "description": "Blast text apart to make it manipulable.",
+  "homepage": "https://github.com/agnito/meteor-blast.git",
+  "author": "Dan Rubins",
+  "version": "0.0.1",
+  "git": "https://github.com/agnito/meteor-blast.git",
+  "packages": {}
+}
